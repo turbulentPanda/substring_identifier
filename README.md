@@ -11,7 +11,7 @@ Each key is a valid substring; the corresponding value is the number of times th
 ## Examples:
 ```
 phrase = "below"
-dictionary = dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
+dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
 
 substrings(phrase, dictionary) # => { "below" => 1, "low" => 1 }
 ```
