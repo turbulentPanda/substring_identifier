@@ -18,7 +18,7 @@ def substrings(phrase, dictionary)
   downcase_dictionary = downcase_array(dictionary)
 
   array_of_substring_matches = create_array_of_substring_matches(downcase_phrase, downcase_dictionary)
-  array_of_substring_matches
+
   create_hash_of_array_elements(array_of_substring_matches)
 
 end
