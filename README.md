@@ -1,4 +1,4 @@
-# Substrings
+# Substring Identifier
 
 ## Brief Description of Project
 This miniproject features a main method substrings(phrase, dictionary).
@@ -8,7 +8,7 @@ phrase is any phrase, and dictionary is an array containing an arbitrary number 
 The method returns a hash containing all elements of dictionary which are a valid substring of phrase.
 Each key is a valid substring; the corresponding value is the number of times the key appears in phrase.
 
-### Examples:
+## Examples:
 ```
 phrase = "below"
 dictionary = dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
