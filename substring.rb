@@ -24,6 +24,6 @@ def substrings(phrase, dictionary)
 end
 
 dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
-phrase = "below"
+phrase = "Howdy partner, sit down! How's it going?"
 
 puts substrings(phrase, dictionary)
